@@ -1,4 +1,4 @@
-# unity-tooltip-demo
+# Unity Tooltip System
 A simple but flexible tooltip system for Unity3d
 
 <p align="center">
